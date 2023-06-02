@@ -1,6 +1,6 @@
 # Maternal Health Data Analysis
 
-This repository contains a data analysis project focused on maternal health, aiming to improve health outcomes through evidence-based actions. The project utilizes statistical modeling, principal component analysis (PCA), and data visualization techniques to gain insights into maternal health data.
+This repository contains a machine learning analysis project focused on maternal health, aiming to improve health outcomes through evidence-based actions. The project utilizes statistical modeling, principal component analysis (PCA), and data visualization techniques to gain insights into maternal health data.
 
 ## Context
 Maternal health refers to the well-being of women during pregnancy, childbirth, and the postpartum period. Despite significant advancements in recent years, the number of maternal deaths remains unacceptably high, with 295,000 women dying during or after pregnancy and childbirth in 2017. The most common direct causes of maternal injury and death include excessive blood loss, infection, and high blood pressure. Timely management by skilled professionals working across disciplines can significantly reduce maternal mortality rates.
