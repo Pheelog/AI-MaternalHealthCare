@@ -17,20 +17,16 @@ As a data scientist collaborating with clinicians, the objective is to analyze m
 
 ## Repository Structure
 - `data/`: This directory contains the maternal health data used for analysis.
-- `notebooks/`: This directory contains Jupyter notebooks showcasing the data analysis, modeling, and visualization steps.
-- `scripts/`: This directory contains any necessary scripts or utilities used in the data analysis process.
-- `docs/`: This directory holds documentation, including the project report, analysis findings, and relevant resources.
-- `results/`: This directory stores the outputs, visualizations, and any generated insights from the analysis.
-- `requirements.txt`: This file lists the dependencies required to reproduce the project environment.
+- `notebook/`: This directory contains Jupyter notebooks showcasing the data analysis, modeling, and visualization steps.
+- `docs/`: This directory holds documentation, including the white paper.
 
 ## How to Use
 To replicate or explore the project's findings, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/MaternalHealthDataAnalysis.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Explore the data analysis notebooks in the `notebooks/` directory.
-4. Run the notebooks to reproduce the analysis steps and generate results.
-5. Review the project documentation and analysis findings in the `docs/` directory.
+2. Explore the data analysis notebooks.
+3. Run the notebooks to reproduce the analysis steps and generate results.
+5. Review the project documentation and analysis findings.
 
 ## Contributions
 Contributions to this project are welcome! If you are interested in contributing, please follow these steps:
